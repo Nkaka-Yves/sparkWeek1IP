@@ -5,7 +5,7 @@
 This is a program where you enter a text and shift key to decrypt and it shows encrypted text and decrcripted text again
 ## Setup/Installation Requirements
 * Open Terminal {Ctrl+Alt+T}
-* git clone
+* git clone https://github.com/Nkaka-Yves/sparkWeek1IP.git
 * cd sparkWeek1IP
 * based on text editor you have open it
 ## Known Bugs
